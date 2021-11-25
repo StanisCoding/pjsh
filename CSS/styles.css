@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Montserrat', sans-seri
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+}
+
+
+
+hr{
+    
+}
+
+
+
+
+p{
+    font-family: monospace;
+    text-shadow: black;
+    color: black;
+
+}
+
+.profile-pic{
+    width: 120px;
+
+}
